@@ -1,188 +1,196 @@
 body {
-  font-family: Arial, sans-serif;
-  background-color: #f4f4f4;
-  margin: 0;
-  padding: 0;
+    font-family: Arial, sans-serif;
+    background: url('image2.jpg') no-repeat center center fixed;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    color: #fff;
 }
 
 .container {
-  width: 80%;
-  margin: 20px auto;
-  background: #fff;
-  padding: 20px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  border-radius: 10px;
+    width: 80%;
+    margin: 20px auto;
+    background: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
 }
 
 h1 {
-  text-align: center;
-  color: #333;
+    text-align: center;
+    color: #fff;
 }
 
 .hero-details {
-  margin: 20px 0;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
+    margin: 20px 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
 
 .hero-details label {
-  font-weight: bold;
-  display: block;
-  margin-bottom: 5px;
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
 }
 
 .hero-details span {
-  display: block;
-  margin-bottom: 15px;
+    display: block;
+    margin-bottom: 15px;
 }
 
 .hero-image {
-  text-align: center;
-  flex: 1 1 100%;
+    text-align: center;
+    flex: 1 1 100%;
 }
 
 .hero-image img {
-  max-width: 200px;
-  border-radius: 10px;
+    max-width: 200px;
+    border-radius: 10px;
 }
 
 .details {
-  flex: 1 1 45%;
-  margin: 10px 0;
+    flex: 1 1 45%;
+    margin: 10px 0;
 }
 
 .skills,
 .equipments,
 .relations,
-.recommend-master-plan {
-  margin-top: 20px;
-  border: 1px solid #ddd;
-  padding: 15px;
-  border-radius: 10px;
-  background: #f9f9f9;
+.recommend-master-plan,
+.counters,
+.cooperate-relationship {
+    margin-top: 20px;
+    border: 1px solid #ddd;
+    padding: 15px;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.1);
 }
 
 .skills img,
 .equipments img,
 .relations img,
-.recommend-master-plan img {
-  max-width: 50px;
-  margin-right: 10px;
+.recommend-master-plan img,
+.counters img,
+.cooperate-relationship img {
+    max-width: 50px;
+    margin-right: 10px;
 }
 
 .skills div,
 .equipments div,
 .relations div,
-.recommend-master-plan div {
-  display: flex;
-  align-items: center;
-  margin-bottom: 10px;
+.recommend-master-plan div,
+.counters div,
+.cooperate-relationship div {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
 }
 
 .input-container {
-  text-align: center;
-  margin-bottom: 20px;
+    text-align: center;
+    margin-bottom: 20px;
 }
 
 .input-container input {
-  padding: 10px;
-  font-size: 16px;
-  margin-right: 10px;
-  border: 1px solid #ccc;
-  border-radius: 5px;
+    padding: 10px;
+    font-size: 16px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
 }
 
 .input-container button {
-  padding: 10px 20px;
-  font-size: 16px;
-  cursor: pointer;
-  border: none;
-  background-color: #007bff;
-  color: white;
-  border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
 }
 
 .input-container button:hover {
-  background-color: #0056b3;
+    background-color: #0056b3;
 }
 
 .section-title {
-  font-size: 1.5em;
-  margin-bottom: 10px;
-  color: #333;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    color: #fff;
 }
 
 .section-content {
-  background: #fff;
-  padding: 10px;
-  border-radius: 5px;
-  border: 1px solid #ddd;
+    background: rgba(255, 255, 255, 0.1);
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
 }
 
 .section-content div {
-  margin-bottom: 10px;
+    margin-bottom: 10px;
 }
 
 .section-content img {
-  border-radius: 5px;
+    border-radius: 5px;
 }
 
 .relation-section {
-  margin-bottom: 20px;
+    margin-bottom: 20px;
 }
 
 .relation-section h3 {
-  margin-bottom: 10px;
+    margin-bottom: 10px;
 }
 
 .relation-heroes {
-  display: flex;
-  flex-wrap: wrap;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .relation-hero {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  margin-right: 15px;
-  margin-bottom: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 15px;
+    margin-bottom: 15px;
 }
 
 .relation-hero img {
-  max-width: 50px;
-  border-radius: 5px;
-  margin-bottom: 5px;
+    max-width: 50px;
+    border-radius: 5px;
+    margin-bottom: 5px;
 }
 
 .relation-hero span {
-  text-align: center;
+    text-align: center;
 }
 
 .difficulty-bar {
-  width: 100%;
-  margin-top: 5px;
+    width: 100%;
+    margin-top: 5px;
 }
 
 progress {
-  width: 100%;
-  height: 20px;
-  -webkit-appearance: none;
-  appearance: none;
+    width: 100%;
+    height: 20px;
+    -webkit-appearance: none;
+    appearance: none;
 }
 
 progress::-webkit-progress-bar {
-  background-color: #f3f3f3;
-  border-radius: 5px;
-  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.2);
+    background-color: #f3f3f3;
+    border-radius: 5px;
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.2);
 }
 
 progress::-webkit-progress-value {
-  background-color: #007bff;
-  border-radius: 5px;
+    background-color: #007bff;
+    border-radius: 5px;
 }
 
 progress::-moz-progress-bar {
-  background-color: #007bff;
-  border-radius: 5px;
+    background-color: #007bff;
+    border-radius: 5px;
 }

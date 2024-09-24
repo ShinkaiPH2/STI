@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mobile Legends Hero Planner</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+    <div class="container">
+        <h1>Mobile Legends Hero Planner</h1>
+        <div class="team-container">
+            <div class="team" id="team1">
+                <h2>Team 1</h2>
+                <div class="ban-container">
+                    <div class="ban-slot" id="ban-team1-1"></div>
+                    <div class="ban-slot" id="ban-team1-2"></div>
+                    <div class="ban-slot" id="ban-team1-3"></div>
+                    <div class="ban-slot" id="ban-team1-4"></div>
+                    <div class="ban-slot" id="ban-team1-5"></div>
+                </div>
+                <div class="pick-container">
+                    <div class="slot" id="team1-slot1"></div>
+                    <div class="slot" id="team1-slot2"></div>
+                    <div class="slot" id="team1-slot3"></div>
+                    <div class="slot" id="team1-slot4"></div>
+                    <div class="slot" id="team1-slot5"></div>
+                </div>
+            </div>
+            <div class="team" id="team2">
+                <h2>Team 2</h2>
+                <div class="ban-container">
+                    <div class="ban-slot" id="ban-team2-1"></div>
+                    <div class="ban-slot" id="ban-team2-2"></div>
+                    <div class="ban-slot" id="ban-team2-3"></div>
+                    <div class="ban-slot" id="ban-team2-4"></div>
+                    <div class="ban-slot" id="ban-team2-5"></div>
+                </div>
+                <div class="pick-container">
+                    <div class="slot" id="team2-slot1"></div>
+                    <div class="slot" id="team2-slot2"></div>
+                    <div class="slot" id="team2-slot3"></div>
+                    <div class="slot" id="team2-slot4"></div>
+                    <div class="slot" id="team2-slot5"></div>
+                </div>
+            </div>
+        </div>
+        <button id="reset-button">Reset</button>
+    </div>
+    <div class="hero-list">
+        <input type="text" id="hero-search" placeholder="Search for a hero...">
+        <h2>Roam</h2>
+        <div class="lane" id="roam-lane"></div>
+        <h2>Jungle</h2>
+        <div class="lane" id="jungle-lane"></div>
+        <h2>Mid Lane</h2>
+        <div class="lane" id="mid-lane"></div>
+        <h2>Exp Lane</h2>
+        <div class="lane" id="exp-lane"></div>
+        <h2>Gold Lane</h2>
+        <div class="lane" id="gold-lane"></div>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>

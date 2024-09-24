@@ -105,6 +105,7 @@ function fetchHeroDetails() {
           relationData.weak.desc
         );
       }
+
     })
     .catch((error) => console.error("Error:", error));
 }

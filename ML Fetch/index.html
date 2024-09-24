@@ -1,55 +1,57 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+
+<head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Hero Details</title>
     <link rel="stylesheet" href="style.css" />
-  </head>
+</head>
 
-  <body>
+<body>
     <div class="container">
-      <h1>Hero Details</h1>
-      <div class="input-container">
-        <input type="text" id="hero-id-input" placeholder="Enter Hero ID" />
-        <button onclick="fetchHeroDetails()">Fetch Hero Details</button>
-      </div>
-      <div class="hero-image">
-        <img id="hero-image" src="" alt="Hero Image" />
-      </div>
-      <div class="hero-details">
-        <div class="details">
-          <label>Name:</label>
-          <span id="hero-name"></span>
+        <h1>Hero Details</h1>
+        <div class="input-container">
+            <input type="text" id="hero-id-input" placeholder="Enter Hero ID" />
+            <button onclick="fetchHeroDetails()">Fetch Hero Details</button>
         </div>
-        <div class="details">
-          <label>Difficulty:</label>
-          <div class="difficulty-bar">
-            <progress id="hero-difficulty" value="0" max="100"></progress>
-          </div>
+        <div class="hero-image">
+            <img id="hero-image" src="" alt="Hero Image" />
         </div>
-        <div class="details">
-          <label>Story:</label>
-          <span id="hero-story"></span>
+        <div class="hero-details">
+            <div class="details">
+                <label>Name:</label>
+                <span id="hero-name"></span>
+            </div>
+            <div class="details">
+                <label>Difficulty:</label>
+                <div class="difficulty-bar">
+                    <progress id="hero-difficulty" value="0" max="100"></progress>
+                </div>
+            </div>
+            <div class="details">
+                <label>Story:</label>
+                <span id="hero-story"></span>
+            </div>
         </div>
-      </div>
-      <div class="skills">
-        <h2 class="section-title">Skills</h2>
-        <div id="hero-skills" class="section-content"></div>
-      </div>
-      <div class="equipments">
-        <h2 class="section-title">Recommended Equipments</h2>
-        <div id="hero-equipments" class="section-content"></div>
-      </div>
-      <div class="recommend-master-plan">
-        <h2 class="section-title">Recommended Master Plan</h2>
-        <div id="recommend-master-plan" class="section-content"></div>
-      </div>
-      <div class="relations">
-        <h2 class="section-title">Relations</h2>
-        <div id="hero-relations" class="section-content"></div>
-      </div>
+        <div class="skills">
+            <h2 class="section-title">Skills</h2>
+            <div id="hero-skills" class="section-content"></div>
+        </div>
+        <div class="equipments">
+            <h2 class="section-title">Recommended Equipments</h2>
+            <div id="hero-equipments" class="section-content"></div>
+        </div>
+        <div class="recommend-master-plan">
+            <h2 class="section-title">Recommended Master Plan</h2>
+            <div id="recommend-master-plan" class="section-content"></div>
+        </div>
+        <div class="relations">
+            <h2 class="section-title">Relations</h2>
+            <div id="hero-relations" class="section-content"></div>
+        </div>
     </div>
     <script src="script.js"></script>
-  </body>
+</body>
+
 </html>

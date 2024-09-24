@@ -1,0 +1,192 @@
+:root {
+    --60: 
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background: url('image2.jpg') no-repeat center center fixed;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+}
+
+.container {
+    width: 80%;
+    background: rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+
+h1 {
+    color: #fff;
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+.team-container {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 5px;
+}
+
+.team {
+    width: 45%;
+}
+
+.team h2 {
+    color: #fff;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.ban-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.ban-slot {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    border: 2px dashed #ff0000;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.3s;
+}
+
+.ban-slot:hover {
+    background-color: rgba(255, 0, 0, 0.1);
+}
+
+.pick-container {
+    margin-bottom: 20px;
+}
+
+.slot {
+    width: 100px;
+    height: 100px;
+    margin: 10px auto;
+    border: 2px dashed #fff;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.3s;
+}
+
+.slot img,
+.ban-slot img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+    border: none;
+}
+
+.slot:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.hero-list {
+    width: 40%;
+    height: 100%;
+    overflow-y: auto;
+    background: rgba(0, 0, 0, 0.8);
+    box-shadow: -2px 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.hero-list h2 {
+    color: #fff;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.lane {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.hero {
+    width: 100px;
+    margin: 5px;
+    cursor: pointer;
+    transition: transform 0.3s;
+    padding: 3px;
+    text-align: center;
+}
+
+.hero img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.hero p {
+    margin-top: 5px;
+    color: #fff;
+    font-size: 0.9em;
+}
+
+.hero:hover {
+    transform: scale(1.1);
+}
+
+.hero-img {
+    width: 100%;
+    border: 1px solid white;
+}
+
+.hero-name {
+    color: #fff;
+    font-size: 0.9em;
+    margin-top: 5px;
+    background-color: #007bff;
+    padding: 3px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.hero.disabled {
+    opacity: 0.5;
+    pointer-events: none;
+}
+
+
+#hero-search {
+    width: 90%;
+    padding: 10px;
+    margin: 20px auto;
+    display: block;
+    font-size: 16px;
+    border: 2px solid #007bff;
+    border-radius: 5px;
+    transition: border-color 0.3s;
+}
+
+#hero-search:focus {
+    border-color: #0056b3;
+    outline: none;
+}
