@@ -1,0 +1,154 @@
+{
+    "code": 0,
+    "message": "OK",
+    "data": {
+        "records": [
+            {
+                "_id": "661fffbd17071f48448b21f0",
+                "caption": "\u5e0c\u5c14\u7ef4\u5a05",
+                "configId": 144237,
+                "createdAt": 1713373117874,
+                "createdUser": "rubickguo",
+                "data": {
+                    "_object": 2684183,
+                    "desc": "In teamfights,\r\nSilvanna can control back-row enemies with her [ULTIMATE]\r\nand then stun them with her [1st Skill].\r\nFinally, she can deal damage with her [2nd Skill] and Basic Attacks.",
+                    "hero_id": 90,
+                    "skill_id": [
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff3af",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ef133226f4bc7ef8b815463980daa1a6.png",
+                                "skillid": 9030
+                            },
+                            "id": 104768,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff3ae",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dbeca4aa319bdc1e24af7f53f6e6f8b9.png",
+                                "skillid": 9010
+                            },
+                            "id": 104767,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff3ad",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e72b0d82cfd40062ad9bb1485232b91f.png",
+                                "skillid": 9020
+                            },
+                            "id": 104766,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713767580554,
+                            "_id": "6626049d554108f063532c2d",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                                "skillid": 9000
+                            },
+                            "id": 105815,
+                            "sourceId": 2674712
+                        }
+                    ],
+                    "title": "TEAMFIGHT COMBOS"
+                },
+                "dynamic": null,
+                "id": 2695016,
+                "linkId": [
+                    2684183
+                ],
+                "sort": 0,
+                "updatedAt": 1713373398215,
+                "updatedUser": "rubickguo"
+            },
+            {
+                "_id": "661fffbd17071f48448b21ec",
+                "caption": "\u5e0c\u5c14\u7ef4\u5a05",
+                "configId": 144237,
+                "createdAt": 1713373117864,
+                "createdUser": "rubickguo",
+                "data": {
+                    "_object": 2684183,
+                    "desc": "Silvanna can poke enemies with her [2nd Skill]\r\nand use her 1st Skill to close the distance once they're low on HP.\r\nThen, she can control them and finish them off with her [ULTIMATE].",
+                    "hero_id": 90,
+                    "skill_id": [
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff3ad",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e72b0d82cfd40062ad9bb1485232b91f.png",
+                                "skillid": 9020
+                            },
+                            "id": 104766,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff3ae",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dbeca4aa319bdc1e24af7f53f6e6f8b9.png",
+                                "skillid": 9010
+                            },
+                            "id": 104767,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff3ae",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dbeca4aa319bdc1e24af7f53f6e6f8b9.png",
+                                "skillid": 9010
+                            },
+                            "id": 104767,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff3af",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ef133226f4bc7ef8b815463980daa1a6.png",
+                                "skillid": 9030
+                            },
+                            "id": 104768,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713767580554,
+                            "_id": "6626049d554108f063532c2d",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                                "skillid": 9000
+                            },
+                            "id": 105815,
+                            "sourceId": 2674712
+                        }
+                    ],
+                    "title": "LANING COMBOS"
+                },
+                "dynamic": null,
+                "id": 2695015,
+                "linkId": [
+                    2684183
+                ],
+                "sort": 0,
+                "updatedAt": 1713373398215,
+                "updatedUser": "rubickguo"
+            }
+        ],
+        "total": 2
+    }
+}

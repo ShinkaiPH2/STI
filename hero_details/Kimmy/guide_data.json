@@ -1,0 +1,110 @@
+{
+    "code": 0,
+    "message": "OK",
+    "data": {
+        "records": [
+            {
+                "_id": "661fffbd17071f48448b2168",
+                "caption": "\u5409\u7c73",
+                "configId": 144237,
+                "createdAt": 1713373117499,
+                "createdUser": "rubickguo",
+                "data": {
+                    "_object": 2684183,
+                    "desc": "In teamfights, poke the enemy with her 1st Skill, and depending on how they react, fall back or chase them down with her 2nd Skill.",
+                    "hero_id": 71,
+                    "skill_id": [
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff35e",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_82ff6caf22bd352b919cf284c54cb3f8.png",
+                                "skillid": 7113
+                            },
+                            "id": 104687,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff360",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2deb359b6e44f3d51fb742ee4837b749.png",
+                                "skillid": 7120
+                            },
+                            "id": 104689,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff35f",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f0a8fbff0bd28e71f224a2c246ec8361.png",
+                                "skillid": 7130
+                            },
+                            "id": 104688,
+                            "sourceId": 2674712
+                        }
+                    ],
+                    "title": "TEAMFIGHT COMBOS"
+                },
+                "dynamic": null,
+                "id": 2694982,
+                "linkId": [
+                    2684183
+                ],
+                "sort": 0,
+                "updatedAt": 1713926733228,
+                "updatedUser": "rubickguo"
+            },
+            {
+                "_id": "661fffbd17071f48448b2164",
+                "caption": "\u5409\u7c73",
+                "configId": 144237,
+                "createdAt": 1713373117488,
+                "createdUser": "rubickguo",
+                "data": {
+                    "_object": 2684183,
+                    "desc": "In the laning phase, keep shooting the enemy with Kimmy's 1st Skill, and use her 2nd Skill to reposition or chase when the enemy tries to engage or run away.",
+                    "hero_id": 71,
+                    "skill_id": [
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff35e",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_82ff6caf22bd352b919cf284c54cb3f8.png",
+                                "skillid": 7113
+                            },
+                            "id": 104687,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff360",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2deb359b6e44f3d51fb742ee4837b749.png",
+                                "skillid": 7120
+                            },
+                            "id": 104689,
+                            "sourceId": 2674712
+                        }
+                    ],
+                    "title": "LANING COMBOS"
+                },
+                "dynamic": null,
+                "id": 2694981,
+                "linkId": [
+                    2684183
+                ],
+                "sort": 0,
+                "updatedAt": 1713926738218,
+                "updatedUser": "rubickguo"
+            }
+        ],
+        "total": 2
+    }
+}

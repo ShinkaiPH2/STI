@@ -1,0 +1,143 @@
+{
+    "code": 0,
+    "message": "OK",
+    "data": {
+        "records": [
+            {
+                "_id": "661fffbc17071f48448b2098",
+                "caption": "\u54c8\u5229",
+                "configId": 144237,
+                "createdAt": 1713373116963,
+                "createdUser": "rubickguo",
+                "data": {
+                    "_object": 2684183,
+                    "desc": "In teamfights, use Harley's 2nd Skill to find a good position to land his Ultimate. Then cast his Ultimate at the target, and follow up with his 1st Skill before moving back to safety with his 2nd Skill.",
+                    "hero_id": 42,
+                    "skill_id": [
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff2d3",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_700b842bae382a89c330491ee17ccd3b.png",
+                                "skillid": 4220
+                            },
+                            "id": 104548,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff2d4",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0057a5d751c27f6e56d3f105e27e989b.png",
+                                "skillid": 4230
+                            },
+                            "id": 104549,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff2d1",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b585f6e1f81d05d3fe3461082ce1805b.png",
+                                "skillid": 4210
+                            },
+                            "id": 104546,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff2d3",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_700b842bae382a89c330491ee17ccd3b.png",
+                                "skillid": 4220
+                            },
+                            "id": 104548,
+                            "sourceId": 2674712
+                        }
+                    ],
+                    "title": "TEAMFIGHT COMBOS"
+                },
+                "dynamic": null,
+                "id": 2694930,
+                "linkId": [
+                    2684183
+                ],
+                "sort": 0,
+                "updatedAt": 1713373219729,
+                "updatedUser": "rubickguo"
+            },
+            {
+                "_id": "661fffbc17071f48448b2094",
+                "caption": "\u54c8\u5229",
+                "configId": 144237,
+                "createdAt": 1713373116953,
+                "createdUser": "rubickguo",
+                "data": {
+                    "_object": 2684183,
+                    "desc": "In the laning phase, first use Harley's 2nd Skill to get a good angle to cast his 1st Skill, and follow up with Basic Attacks. Then use his 2nd Skill again to get back to safety.",
+                    "hero_id": 42,
+                    "skill_id": [
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff2d3",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_700b842bae382a89c330491ee17ccd3b.png",
+                                "skillid": 4220
+                            },
+                            "id": 104548,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff2d1",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b585f6e1f81d05d3fe3461082ce1805b.png",
+                                "skillid": 4210
+                            },
+                            "id": 104546,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713767580554,
+                            "_id": "6626049d554108f063532bed",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                                "skillid": 4200
+                            },
+                            "id": 105751,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff2d3",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_700b842bae382a89c330491ee17ccd3b.png",
+                                "skillid": 4220
+                            },
+                            "id": 104548,
+                            "sourceId": 2674712
+                        }
+                    ],
+                    "title": "LANING COMBOS"
+                },
+                "dynamic": null,
+                "id": 2694929,
+                "linkId": [
+                    2684183
+                ],
+                "sort": 0,
+                "updatedAt": 1713373219729,
+                "updatedUser": "rubickguo"
+            }
+        ],
+        "total": 2
+    }
+}

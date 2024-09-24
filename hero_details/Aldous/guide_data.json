@@ -1,0 +1,165 @@
+{
+    "code": 0,
+    "message": "OK",
+    "data": {
+        "records": [
+            {
+                "_id": "661fffbd17071f48448b2140",
+                "caption": "\u5965\u5fb7\u65af",
+                "configId": 144237,
+                "createdAt": 1713373117396,
+                "createdUser": "rubickguo",
+                "data": {
+                    "_object": 2684183,
+                    "desc": "In teamfights, Use Aldous' Ultimate to gain vision on the enemy team, then use his Ultimate again to dash to the most vulnerable target. After the dash, use Aldous' 1st and 2nd skill combo to hit the enemy with his enhanced Basic Attacks.",
+                    "hero_id": 64,
+                    "skill_id": [
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff335",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3f696f83c150449f6a691ce738ee6576.png",
+                                "skillid": 6430
+                            },
+                            "id": 104646,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff335",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3f696f83c150449f6a691ce738ee6576.png",
+                                "skillid": 6430
+                            },
+                            "id": 104646,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff333",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_39d2e1dab8a446d9d5adb5f4b564505c.png",
+                                "skillid": 6410
+                            },
+                            "id": 104644,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff336",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_523832f81d6deeaf65b1f9a0a4735591.png",
+                                "skillid": 6420
+                            },
+                            "id": 104647,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713767580554,
+                            "_id": "6626049d554108f063532c03",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                                "skillid": 6400
+                            },
+                            "id": 105773,
+                            "sourceId": 2674712
+                        }
+                    ],
+                    "title": "TEAMFIGHT COMBOS"
+                },
+                "dynamic": null,
+                "id": 2694972,
+                "linkId": [
+                    2684183
+                ],
+                "sort": 0,
+                "updatedAt": 1714479743541,
+                "updatedUser": "rubickguo"
+            },
+            {
+                "_id": "661fffbd17071f48448b213c",
+                "caption": "\u5965\u5fb7\u65af",
+                "configId": 144237,
+                "createdAt": 1713373117386,
+                "createdUser": "rubickguo",
+                "data": {
+                    "_object": 2684183,
+                    "desc": "In the laning phase, Use Aldous' 1st Skill to enhance his next Basic Attack,\r\nthen his 2nd Skill to close in on the enemy to hit them with his enhanced attack. Follow with another 1st Skill to hit the enemy with another enhanced Basic Attack.",
+                    "hero_id": 64,
+                    "skill_id": [
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff333",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_39d2e1dab8a446d9d5adb5f4b564505c.png",
+                                "skillid": 6410
+                            },
+                            "id": 104644,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff336",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_523832f81d6deeaf65b1f9a0a4735591.png",
+                                "skillid": 6420
+                            },
+                            "id": 104647,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713767580554,
+                            "_id": "6626049d554108f063532c03",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                                "skillid": 6400
+                            },
+                            "id": 105773,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff333",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_39d2e1dab8a446d9d5adb5f4b564505c.png",
+                                "skillid": 6410
+                            },
+                            "id": 104644,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713767580554,
+                            "_id": "6626049d554108f063532c03",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                                "skillid": 6400
+                            },
+                            "id": 105773,
+                            "sourceId": 2674712
+                        }
+                    ],
+                    "title": "LANING COMBOS"
+                },
+                "dynamic": null,
+                "id": 2694971,
+                "linkId": [
+                    2684183
+                ],
+                "sort": 0,
+                "updatedAt": 1713373161215,
+                "updatedUser": "rubickguo"
+            }
+        ],
+        "total": 2
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "code": 0,
+    "message": "OK",
+    "data": {
+        "records": [
+            {
+                "_id": "661fffbd17071f48448b2138",
+                "caption": "\u8d5b\u7433\u5a1c",
+                "configId": 144237,
+                "createdAt": 1713373117376,
+                "createdUser": "rubickguo",
+                "data": {
+                    "_object": 2684183,
+                    "desc": "Stay in Elven Form to cast her 1st and 2nd skill combo to catch the enemy hero in distance. Then cast her Ultimate to enter her Abyssal Form. Follow with her 2nd and 1st skill combo to close in and finish off the target, then cast her 2nd Skill to dash away.",
+                    "hero_id": 63,
+                    "skill_id": [
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff32e",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_62637c2435b75abec80321bb1544fc30.png",
+                                "skillid": 6310
+                            },
+                            "id": 104639,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff330",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e672c608df7806e99148d0176149a316.png",
+                                "skillid": 6320
+                            },
+                            "id": 104641,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff332",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_abd29236983e4d3d1bfd361b2e242111.png",
+                                "skillid": 6330
+                            },
+                            "id": 104643,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff32f",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c2a0d728e05af9460c1cfa97bd0acd56.png",
+                                "skillid": 6326
+                            },
+                            "id": 104640,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff32d",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_beba48ddc774a4267f72ba8a93666998.png",
+                                "skillid": 6312
+                            },
+                            "id": 104638,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff32f",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c2a0d728e05af9460c1cfa97bd0acd56.png",
+                                "skillid": 6326
+                            },
+                            "id": 104640,
+                            "sourceId": 2674712
+                        }
+                    ],
+                    "title": "TEAMFIGHT COMBOS"
+                },
+                "dynamic": null,
+                "id": 2694970,
+                "linkId": [
+                    2684183
+                ],
+                "sort": 0,
+                "updatedAt": 1713925533522,
+                "updatedUser": "rubickguo"
+            },
+            {
+                "_id": "661fffbd17071f48448b2134",
+                "caption": "\u8d5b\u7433\u5a1c",
+                "configId": 144237,
+                "createdAt": 1713373117365,
+                "createdUser": "rubickguo",
+                "data": {
+                    "_object": 2684183,
+                    "desc": "Elven Form Selena can use her 2nd Skill to stun the enemy, then use her 1st Skill to poke enemies and deal damage.",
+                    "hero_id": 63,
+                    "skill_id": [
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff330",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e672c608df7806e99148d0176149a316.png",
+                                "skillid": 6320
+                            },
+                            "id": 104641,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff32e",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_62637c2435b75abec80321bb1544fc30.png",
+                                "skillid": 6310
+                            },
+                            "id": 104639,
+                            "sourceId": 2674712
+                        }
+                    ],
+                    "title": "LANING COMBOS"
+                },
+                "dynamic": null,
+                "id": 2694969,
+                "linkId": [
+                    2684183
+                ],
+                "sort": 0,
+                "updatedAt": 1713373161242,
+                "updatedUser": "rubickguo"
+            }
+        ],
+        "total": 2
+    }
+}

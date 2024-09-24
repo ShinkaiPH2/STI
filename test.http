@@ -1,0 +1,13 @@
+### Get Hero Details
+POST https://api.gms.moontontech.com/api/gms/source/2669606/2756564
+Content-Type: application/json
+
+{
+    "pageSize": 20,
+    "filters": [
+        {"field": "hero_id", "operator": "eq", "value": "126"}
+    ],
+    "sorts": [],
+    "pageIndex": 1,
+    "object": []
+}

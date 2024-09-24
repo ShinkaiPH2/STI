@@ -1,0 +1,165 @@
+{
+    "code": 0,
+    "message": "OK",
+    "data": {
+        "records": [
+            {
+                "_id": "66eb9bb61d40a04fbf72c7c7",
+                "caption": "\u8083\u6e38",
+                "configId": 144237,
+                "createdAt": 1726716854350,
+                "createdUser": "v_hwu",
+                "data": {
+                    "_object": 2684183,
+                    "desc": "Hold-cast Skill 3 to poke before the team fight, then hold-cast Skill 1 to engage and control the enemy at their back, then hold-cast Skill 2 to deal massive damage. Then tap-cast Skill 3 to keep your distance from the enemy, and when the skill cooldown is up, tap-cast Skill 1 and Skill 2 to quickly kill the target.",
+                    "hero_id": 126,
+                    "skill_id": [
+                        {
+                            "_createdAt": 1714230180842,
+                            "_id": "662d13a5554108f063533aaf",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_34cdeedb104693a99738e1cad6dda2ec.png",
+                                "skillid": 12650
+                            },
+                            "id": 105978,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1714230180842,
+                            "_id": "662d13a5554108f063533aac",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_f19d61842474b4be077095114cb7a2bd.png",
+                                "skillid": 12610
+                            },
+                            "id": 105975,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1714230180842,
+                            "_id": "662d13a5554108f063533aad",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_4a0a58432d841803b33982fe1918bfe2.png",
+                                "skillid": 12630
+                            },
+                            "id": 105976,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1714230180842,
+                            "_id": "662d13a5554108f063533aaf",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_34cdeedb104693a99738e1cad6dda2ec.png",
+                                "skillid": 12650
+                            },
+                            "id": 105978,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1714230180842,
+                            "_id": "662d13a5554108f063533aac",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_f19d61842474b4be077095114cb7a2bd.png",
+                                "skillid": 12610
+                            },
+                            "id": 105975,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1714230180842,
+                            "_id": "662d13a5554108f063533aad",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_4a0a58432d841803b33982fe1918bfe2.png",
+                                "skillid": 12630
+                            },
+                            "id": 105976,
+                            "sourceId": 2674712
+                        }
+                    ],
+                    "title": "TEAMFIGHT COMBOS"
+                },
+                "dynamic": null,
+                "id": 2763542,
+                "linkId": [
+                    2684183
+                ],
+                "sort": 0,
+                "updatedAt": 1726800942606,
+                "updatedUser": "rubickguo"
+            },
+            {
+                "_id": "66eb9b3d1d40a04fbf72c7bd",
+                "caption": "\u8083\u6e38",
+                "configId": 144237,
+                "createdAt": 1726716733211,
+                "createdUser": "v_hwu",
+                "data": {
+                    "_object": 2684183,
+                    "desc": "Hold-casting Skill 1 in the Bush allows Suyou to attack unexpectedly and control the enemy; then hold-cast Skill 2 to deal massive damage and follow up the Basic Attack by tap-casting Skill 3 to leave the battlefield.",
+                    "hero_id": 126,
+                    "skill_id": [
+                        {
+                            "_createdAt": 1714230180842,
+                            "_id": "662d13a5554108f063533aac",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_f19d61842474b4be077095114cb7a2bd.png",
+                                "skillid": 12610
+                            },
+                            "id": 105975,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1714230180842,
+                            "_id": "662d13a5554108f063533aae",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                                "skillid": 12600
+                            },
+                            "id": 105977,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1714230180842,
+                            "_id": "662d13a5554108f063533aad",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_4a0a58432d841803b33982fe1918bfe2.png",
+                                "skillid": 12630
+                            },
+                            "id": 105976,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1714230180842,
+                            "_id": "662d13a5554108f063533aaf",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_34cdeedb104693a99738e1cad6dda2ec.png",
+                                "skillid": 12650
+                            },
+                            "id": 105978,
+                            "sourceId": 2674712
+                        }
+                    ],
+                    "title": "LANING COMBOS"
+                },
+                "dynamic": null,
+                "id": 2763541,
+                "linkId": [
+                    2684183
+                ],
+                "sort": 0,
+                "updatedAt": 1726800866436,
+                "updatedUser": "rubickguo"
+            }
+        ],
+        "total": 2
+    }
+}

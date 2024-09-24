@@ -1,0 +1,110 @@
+{
+    "code": 0,
+    "message": "OK",
+    "data": {
+        "records": [
+            {
+                "_id": "661fffbc17071f48448b2078",
+                "caption": "\u51e1\u514b\u838e\u5a1c",
+                "configId": 144237,
+                "createdAt": 1713373116882,
+                "createdUser": "rubickguo",
+                "data": {
+                    "_object": 2684183,
+                    "desc": "Initiate teamfights with CC or follow up after other CC. \r\nUse her Ultimate when enemies are gathered, follow up \r\nwith 2nd and 1st Skill combo for CC and damage.",
+                    "hero_id": 38,
+                    "skill_id": [
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff2be",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1a95d813fc47cb5ec048784dacd7b46e.png",
+                                "skillid": 3830
+                            },
+                            "id": 104527,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff2bd",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f0142fc0def21fe074ec6feb4a24fa07.png",
+                                "skillid": 3820
+                            },
+                            "id": 104526,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff2bc",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_306fd329581b6ea4590086598d250df1.png",
+                                "skillid": 3810
+                            },
+                            "id": 104525,
+                            "sourceId": 2674712
+                        }
+                    ],
+                    "title": "TEAMFIGHT COMBOS"
+                },
+                "dynamic": null,
+                "id": 2694922,
+                "linkId": [
+                    2684183
+                ],
+                "sort": 0,
+                "updatedAt": 1713942363708,
+                "updatedUser": "v_hwu"
+            },
+            {
+                "_id": "661fffbc17071f48448b2074",
+                "caption": "\u51e1\u514b\u838e\u5a1c",
+                "configId": 144237,
+                "createdAt": 1713373116872,
+                "createdUser": "rubickguo",
+                "data": {
+                    "_object": 2684183,
+                    "desc": "Terrify enemy with 1st Skill and follow up with 2nd Skill for guaranteed damage.",
+                    "hero_id": 38,
+                    "skill_id": [
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff2bc",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_306fd329581b6ea4590086598d250df1.png",
+                                "skillid": 3810
+                            },
+                            "id": 104525,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff2bd",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f0142fc0def21fe074ec6feb4a24fa07.png",
+                                "skillid": 3820
+                            },
+                            "id": 104526,
+                            "sourceId": 2674712
+                        }
+                    ],
+                    "title": "LANING COMBOS"
+                },
+                "dynamic": null,
+                "id": 2694921,
+                "linkId": [
+                    2684183
+                ],
+                "sort": 0,
+                "updatedAt": 1713942391682,
+                "updatedUser": "v_hwu"
+            }
+        ],
+        "total": 2
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "code": 0,
+    "message": "OK",
+    "data": {
+        "records": [
+            {
+                "_id": "661fffbc17071f48448b1fd8",
+                "caption": "\u5c24\u6735\u62c9",
+                "configId": 144237,
+                "createdAt": 1713373116437,
+                "createdUser": "rubickguo",
+                "data": {
+                    "_object": 2684183,
+                    "desc": "Eudora can control the enemy with her 2nd Skill, then follow up with her Ultimate+1st Skill combo to burst them down.",
+                    "hero_id": 15,
+                    "skill_id": [
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff256",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_13b319ee1bb32aa9874ce1b7c920c31a.png",
+                                "skillid": 1520
+                            },
+                            "id": 104423,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff255",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4038b3b36fdf50d4ed827f32ad312d7f.png",
+                                "skillid": 1530
+                            },
+                            "id": 104422,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff252",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5e38bc2281744ee461a9819681e65965.png",
+                                "skillid": 1510
+                            },
+                            "id": 104419,
+                            "sourceId": 2674712
+                        }
+                    ],
+                    "title": "TEAMFIGHT COMBOS"
+                },
+                "dynamic": null,
+                "id": 2694882,
+                "linkId": [
+                    2684183
+                ],
+                "sort": 0,
+                "updatedAt": 1713373219944,
+                "updatedUser": "rubickguo"
+            },
+            {
+                "_id": "661fffbc17071f48448b1fd4",
+                "caption": "\u5c24\u6735\u62c9",
+                "configId": 144237,
+                "createdAt": 1713373116427,
+                "createdUser": "rubickguo",
+                "data": {
+                    "_object": 2684183,
+                    "desc": "Eudora can poke enemies using her S2+S1 combo.",
+                    "hero_id": 15,
+                    "skill_id": [
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff256",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_13b319ee1bb32aa9874ce1b7c920c31a.png",
+                                "skillid": 1520
+                            },
+                            "id": 104423,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff252",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5e38bc2281744ee461a9819681e65965.png",
+                                "skillid": 1510
+                            },
+                            "id": 104419,
+                            "sourceId": 2674712
+                        }
+                    ],
+                    "title": "LANING COMBOS"
+                },
+                "dynamic": null,
+                "id": 2694881,
+                "linkId": [
+                    2684183
+                ],
+                "sort": 0,
+                "updatedAt": 1713373219944,
+                "updatedUser": "rubickguo"
+            }
+        ],
+        "total": 2
+    }
+}

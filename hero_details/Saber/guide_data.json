@@ -1,0 +1,121 @@
+{
+    "code": 0,
+    "message": "OK",
+    "data": {
+        "records": [
+            {
+                "_id": "661fffbc17071f48448b1f80",
+                "caption": "\u5251\u950b",
+                "configId": 144237,
+                "createdAt": 1713373116222,
+                "createdUser": "rubickguo",
+                "data": {
+                    "_object": 2684183,
+                    "desc": "Saber can use his 1st Skill to poke and weaken the enemy, follow with his 2nd Skill to close in, then use his Ultimate to finish them off.",
+                    "hero_id": 3,
+                    "skill_id": [
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff223",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6294839bbadfa6f203cd57bdc15efe2.png",
+                                "skillid": 310
+                            },
+                            "id": 104372,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff226",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8607d91bbdff281d5bba7618f3ed4c98.png",
+                                "skillid": 320
+                            },
+                            "id": 104375,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff225",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fc47930fd50e062bf6e8c8c0398e237c.png",
+                                "skillid": 330
+                            },
+                            "id": 104374,
+                            "sourceId": 2674712
+                        }
+                    ],
+                    "title": "TEAMFIGHT COMBOS"
+                },
+                "dynamic": null,
+                "id": 2694860,
+                "linkId": [
+                    2684183
+                ],
+                "sort": 0,
+                "updatedAt": 1713373219897,
+                "updatedUser": "rubickguo"
+            },
+            {
+                "_id": "661fffbc17071f48448b1f7c",
+                "caption": "\u5251\u950b",
+                "configId": 144237,
+                "createdAt": 1713373116213,
+                "createdUser": "rubickguo",
+                "data": {
+                    "_object": 2684183,
+                    "desc": "Saber can use his 1st Skill to poke and weaken the enemy, follow with his 2nd Skill to close in, then use his Ultimate to finish them off.",
+                    "hero_id": 3,
+                    "skill_id": [
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff223",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6294839bbadfa6f203cd57bdc15efe2.png",
+                                "skillid": 310
+                            },
+                            "id": 104372,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff226",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8607d91bbdff281d5bba7618f3ed4c98.png",
+                                "skillid": 320
+                            },
+                            "id": 104375,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff225",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fc47930fd50e062bf6e8c8c0398e237c.png",
+                                "skillid": 330
+                            },
+                            "id": 104374,
+                            "sourceId": 2674712
+                        }
+                    ],
+                    "title": "LANING COMBOS"
+                },
+                "dynamic": null,
+                "id": 2694859,
+                "linkId": [
+                    2684183
+                ],
+                "sort": 0,
+                "updatedAt": 1713373219916,
+                "updatedUser": "rubickguo"
+            }
+        ],
+        "total": 2
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "code": 0,
+    "message": "OK",
+    "data": {
+        "records": [
+            {
+                "_id": "662000c517071f48448b248c",
+                "caption": "\u6d1b\u4e3d\u5854",
+                "configId": 144237,
+                "createdAt": 1713373381769,
+                "createdUser": "rubickguo",
+                "data": {
+                    "_object": 2684183,
+                    "desc": "In teamfights, use Lolita's 2nd Skill to reflect ranged attacks, followed by her 1st Skill to charge into enemies' midst, then use her enhanced Basic Attack to stun the target and deal damage. Follow up with her Ultimate for more damage and CC, and finish off the enemy with your team.",
+                    "hero_id": 20,
+                    "skill_id": [
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff26b",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c667899aa7f531fa5b199327be638d54.png",
+                                "skillid": 2020
+                            },
+                            "id": 104444,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff26c",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e1554a16e239a56ab24a59ed06542a07.png",
+                                "skillid": 2010
+                            },
+                            "id": 104445,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713767580554,
+                            "_id": "6626049c554108f063532bd7",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                                "skillid": 2000
+                            },
+                            "id": 105729,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff26e",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_139bfe9c5e5ab063c0988222a5a3c456.png",
+                                "skillid": 2030
+                            },
+                            "id": 104447,
+                            "sourceId": 2674712
+                        }
+                    ],
+                    "title": "TEAMFIGHT COMBOS"
+                },
+                "dynamic": null,
+                "id": 2695082,
+                "linkId": [
+                    2684183
+                ],
+                "sort": 0,
+                "updatedAt": 1713373398128,
+                "updatedUser": "rubickguo"
+            },
+            {
+                "_id": "662000c517071f48448b2488",
+                "caption": "\u6d1b\u4e3d\u5854",
+                "configId": 144237,
+                "createdAt": 1713373381724,
+                "createdUser": "rubickguo",
+                "data": {
+                    "_object": 2684183,
+                    "desc": "In the laning phase, use Lolita's 1st Skill and enhanced Basic Attack to stun the enemy, then use her 2nd Skill to reflect ranged attacks.",
+                    "hero_id": 20,
+                    "skill_id": [
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff26c",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e1554a16e239a56ab24a59ed06542a07.png",
+                                "skillid": 2010
+                            },
+                            "id": 104445,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713767580554,
+                            "_id": "6626049c554108f063532bd7",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                                "skillid": 2000
+                            },
+                            "id": 105729,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff26b",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c667899aa7f531fa5b199327be638d54.png",
+                                "skillid": 2020
+                            },
+                            "id": 104444,
+                            "sourceId": 2674712
+                        }
+                    ],
+                    "title": "LANING COMBOS"
+                },
+                "dynamic": null,
+                "id": 2695081,
+                "linkId": [
+                    2684183
+                ],
+                "sort": 0,
+                "updatedAt": 1713373398128,
+                "updatedUser": "rubickguo"
+            }
+        ],
+        "total": 2
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "code": 0,
+    "message": "OK",
+    "data": {
+        "records": [
+            {
+                "_id": "663b2627633922a8d1876bf7",
+                "caption": "\u739b\u838e",
+                "configId": 144237,
+                "createdAt": 1715152423807,
+                "createdUser": "rubickguo",
+                "data": {
+                    "_object": 2684183,
+                    "desc": "In the laning phase, use Masha's 1st Skill to close the gap with the enemy and slow them with her 2nd Skill to engage. Follow up with Basic Attacks for more damage.",
+                    "hero_id": 88,
+                    "skill_id": [
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff3a3",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e8d16ab8090bc35167878013b946b53f.png",
+                                "skillid": 8810
+                            },
+                            "id": 104756,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff3a6",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_18145750af85a40bbae3287f1ed47ebb.png",
+                                "skillid": 8820
+                            },
+                            "id": 104759,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713767580554,
+                            "_id": "6626049d554108f063532c1d",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                                "skillid": 8800
+                            },
+                            "id": 105799,
+                            "sourceId": 2674712
+                        }
+                    ],
+                    "title": "LANING COMBOS"
+                },
+                "dynamic": null,
+                "id": 2706532,
+                "linkId": [
+                    2684183
+                ],
+                "sort": 0,
+                "updatedAt": 1715152453341,
+                "updatedUser": "rubickguo"
+            },
+            {
+                "_id": "663b2627633922a8d1876bf3",
+                "caption": "\u739b\u838e",
+                "configId": 144237,
+                "createdAt": 1715152423787,
+                "createdUser": "rubickguo",
+                "data": {
+                    "_object": 2684183,
+                    "desc": "In teamfights, charge into an enemy with Masha's Ultimate, then use her 1st Skill followed by Basic Attacks to deal more damage. Whenever she loses an HP bar, use her Ultimate again to charge at the target and slow them with her 2nd Skill.",
+                    "hero_id": 88,
+                    "skill_id": [
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff3a5",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a7bd1cc6fe451768339602321771094a.png",
+                                "skillid": 8830
+                            },
+                            "id": 104758,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff3a3",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e8d16ab8090bc35167878013b946b53f.png",
+                                "skillid": 8810
+                            },
+                            "id": 104756,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713767580554,
+                            "_id": "6626049d554108f063532c1d",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                                "skillid": 8800
+                            },
+                            "id": 105799,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff3a5",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a7bd1cc6fe451768339602321771094a.png",
+                                "skillid": 8830
+                            },
+                            "id": 104758,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff3a6",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_18145750af85a40bbae3287f1ed47ebb.png",
+                                "skillid": 8820
+                            },
+                            "id": 104759,
+                            "sourceId": 2674712
+                        }
+                    ],
+                    "title": "TEAMFIGHT COMBOS"
+                },
+                "dynamic": null,
+                "id": 2706531,
+                "linkId": [
+                    2684183
+                ],
+                "sort": 0,
+                "updatedAt": 1720668186847,
+                "updatedUser": "rubickguo"
+            }
+        ],
+        "total": 2
+    }
+}

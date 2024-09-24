@@ -1,0 +1,165 @@
+{
+    "code": 0,
+    "message": "OK",
+    "data": {
+        "records": [
+            {
+                "_id": "661fffbd17071f48448b2160",
+                "caption": "\u534a\u85cf",
+                "configId": 144237,
+                "createdAt": 1713373117479,
+                "createdUser": "rubickguo",
+                "data": {
+                    "_object": 2684183,
+                    "desc": "In teamfights, use his 2nd Skill to poke, then find a safe location when it's time to engage with his Ultimate. Use his 2nd Skill to dash to the enemy's backline to deal damage and unlock his 1st Skill. Follow up with his 1st Skill to chase down enemies and hit them with Basic Attacks. If Hanekage is about to be killed or there are enemies around Hanzo's body, use his Ultimate again to blink and reposition.",
+                    "hero_id": 69,
+                    "skill_id": [
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff355",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c61b3af2fce25dd528da4415fd30f967.png",
+                                "skillid": 6920
+                            },
+                            "id": 104678,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff357",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_376da162a47d26536077d320a145db3d.png",
+                                "skillid": 6930
+                            },
+                            "id": 104680,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff358",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_712ddee73808cb72174c2f50d46d1e3a.png",
+                                "skillid": 6925
+                            },
+                            "id": 104681,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff356",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_edafa919dbdf92e1fc5bb2734acabbce.png",
+                                "skillid": 6911
+                            },
+                            "id": 104679,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713767580554,
+                            "_id": "6626049d554108f063532c07",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                                "skillid": 6900
+                            },
+                            "id": 105777,
+                            "sourceId": 2674712
+                        }
+                    ],
+                    "title": "TEAMFIGHT COMBOS"
+                },
+                "dynamic": null,
+                "id": 2694980,
+                "linkId": [
+                    2684183
+                ],
+                "sort": 0,
+                "updatedAt": 1713926533102,
+                "updatedUser": "rubickguo"
+            },
+            {
+                "_id": "661fffbd17071f48448b215c",
+                "caption": "\u534a\u85cf",
+                "configId": 144237,
+                "createdAt": 1713373117469,
+                "createdUser": "rubickguo",
+                "data": {
+                    "_object": 2684183,
+                    "desc": "In the laning phase, use Hanzo's 2nd Skill to poke enemies, then cast his Ultimate to summon Hanekage and follow up with his 2nd Skill to deal damage. When the enemy is about to leave the area, use his 1st Skill to chase and finish them off with Basic Attacks.",
+                    "hero_id": 69,
+                    "skill_id": [
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff355",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c61b3af2fce25dd528da4415fd30f967.png",
+                                "skillid": 6920
+                            },
+                            "id": 104678,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff357",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_376da162a47d26536077d320a145db3d.png",
+                                "skillid": 6930
+                            },
+                            "id": 104680,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff358",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_712ddee73808cb72174c2f50d46d1e3a.png",
+                                "skillid": 6925
+                            },
+                            "id": 104681,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff356",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_edafa919dbdf92e1fc5bb2734acabbce.png",
+                                "skillid": 6911
+                            },
+                            "id": 104679,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713767580554,
+                            "_id": "6626049d554108f063532c07",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                                "skillid": 6900
+                            },
+                            "id": 105777,
+                            "sourceId": 2674712
+                        }
+                    ],
+                    "title": "LANING COMBOS"
+                },
+                "dynamic": null,
+                "id": 2694979,
+                "linkId": [
+                    2684183
+                ],
+                "sort": 0,
+                "updatedAt": 1713926504052,
+                "updatedUser": "rubickguo"
+            }
+        ],
+        "total": 2
+    }
+}

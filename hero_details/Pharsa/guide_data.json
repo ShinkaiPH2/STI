@@ -1,0 +1,143 @@
+{
+    "code": 0,
+    "message": "OK",
+    "data": {
+        "records": [
+            {
+                "_id": "661fffbd17071f48448b20e0",
+                "caption": "\u6cd5\u838e",
+                "configId": 144237,
+                "createdAt": 1713373117150,
+                "createdUser": "rubickguo",
+                "data": {
+                    "_object": 2684183,
+                    "desc": "Pharsa can use her 4th Skill to get into an advantageous position to initiate a teamfight, followed by a damage combo with her 1st and 3rd skills and use her 2nd Skill when she wants to deal extra damage.",
+                    "hero_id": 52,
+                    "skill_id": [
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff303",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_566a1f86bd9177eb7b75f0fb0a0c762c.png",
+                                "skillid": 5250
+                            },
+                            "id": 104596,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff301",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f742fccb6bbc9436b3085a1ee4b740f7.png",
+                                "skillid": 5210
+                            },
+                            "id": 104594,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff300",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f0d9ce0152491c148821703d1e31d802.png",
+                                "skillid": 5230
+                            },
+                            "id": 104593,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff302",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dcf364fc10b2a3ee13ba23a6d56f7987.png",
+                                "skillid": 5220
+                            },
+                            "id": 104595,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff300",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f0d9ce0152491c148821703d1e31d802.png",
+                                "skillid": 5230
+                            },
+                            "id": 104593,
+                            "sourceId": 2674712
+                        }
+                    ],
+                    "title": "TEAMFIGHT COMBOS"
+                },
+                "dynamic": null,
+                "id": 2694948,
+                "linkId": [
+                    2684183
+                ],
+                "sort": 0,
+                "updatedAt": 1713942940764,
+                "updatedUser": "rubickguo"
+            },
+            {
+                "_id": "661fffbd17071f48448b20dc",
+                "caption": "\u6cd5\u838e",
+                "configId": 144237,
+                "createdAt": 1713373117140,
+                "createdUser": "rubickguo",
+                "data": {
+                    "_object": 2684183,
+                    "desc": "Pharsa should start with her 1st Skill to mark the enemy, follow up with her 2nd Skill to apply CC, and then cast her Ultimate to deal an insane amount of Magic Damage.",
+                    "hero_id": 52,
+                    "skill_id": [
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff301",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f742fccb6bbc9436b3085a1ee4b740f7.png",
+                                "skillid": 5210
+                            },
+                            "id": 104594,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff302",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dcf364fc10b2a3ee13ba23a6d56f7987.png",
+                                "skillid": 5220
+                            },
+                            "id": 104595,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff300",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f0d9ce0152491c148821703d1e31d802.png",
+                                "skillid": 5230
+                            },
+                            "id": 104593,
+                            "sourceId": 2674712
+                        }
+                    ],
+                    "title": "LANING COMBOS"
+                },
+                "dynamic": null,
+                "id": 2694947,
+                "linkId": [
+                    2684183
+                ],
+                "sort": 0,
+                "updatedAt": 1713373219661,
+                "updatedUser": "rubickguo"
+            }
+        ],
+        "total": 2
+    }
+}

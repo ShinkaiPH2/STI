@@ -1,0 +1,187 @@
+{
+    "code": 0,
+    "message": "OK",
+    "data": {
+        "records": [
+            {
+                "_id": "661fffbd17071f48448b2100",
+                "caption": "\u53e4\u8f9b",
+                "configId": 144237,
+                "createdAt": 1713373117233,
+                "createdUser": "rubickguo",
+                "data": {
+                    "_object": 2684183,
+                    "desc": "In teamfights, Gusion should first use his 2nd Skill for damage, then his Ultimate to reset the cooldown for his 2nd Skill. Follow up with his 2nd and 1st Skill combo for more damage. And use his 2nd Skill again to recall all 10 daggers right after moving behind a target with his 1st Skill for massive damage. He can then finish off any remaining low-HP heroes and escape with his Ultimate.",
+                    "hero_id": 56,
+                    "skill_id": [
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff311",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_40bc6e5205c84fb8cd337031ca8480d0.png",
+                                "skillid": 5620
+                            },
+                            "id": 104610,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff313",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6ffa279a397359b614e8acecde38c0bb.png",
+                                "skillid": 5630
+                            },
+                            "id": 104612,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff311",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_40bc6e5205c84fb8cd337031ca8480d0.png",
+                                "skillid": 5620
+                            },
+                            "id": 104610,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff312",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3c2d474c18f5d10925a4c732992df352.png",
+                                "skillid": 5610
+                            },
+                            "id": 104611,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff312",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3c2d474c18f5d10925a4c732992df352.png",
+                                "skillid": 5610
+                            },
+                            "id": 104611,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff311",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_40bc6e5205c84fb8cd337031ca8480d0.png",
+                                "skillid": 5620
+                            },
+                            "id": 104610,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713767580554,
+                            "_id": "6626049d554108f063532bfe",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                                "skillid": 5600
+                            },
+                            "id": 105768,
+                            "sourceId": 2674712
+                        }
+                    ],
+                    "title": "TEAMFIGHT COMBOS"
+                },
+                "dynamic": null,
+                "id": 2694956,
+                "linkId": [
+                    2684183
+                ],
+                "sort": 0,
+                "updatedAt": 1713373161177,
+                "updatedUser": "rubickguo"
+            },
+            {
+                "_id": "661fffbd17071f48448b20fc",
+                "caption": "\u53e4\u8f9b",
+                "configId": 144237,
+                "createdAt": 1713373117222,
+                "createdUser": "rubickguo",
+                "data": {
+                    "_object": 2684183,
+                    "desc": "In the laning phase, Gusion can use his 1st Skill to mark the enemies, then use his 2nd Skill to slow them down. Next, he can use his 1st Skill again to move behind a target enemy and use his 2nd Skill again to deal massive damage. And finally, use his Basic Attacks to finish off the target.",
+                    "hero_id": 56,
+                    "skill_id": [
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff312",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3c2d474c18f5d10925a4c732992df352.png",
+                                "skillid": 5610
+                            },
+                            "id": 104611,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff311",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_40bc6e5205c84fb8cd337031ca8480d0.png",
+                                "skillid": 5620
+                            },
+                            "id": 104610,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff312",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3c2d474c18f5d10925a4c732992df352.png",
+                                "skillid": 5610
+                            },
+                            "id": 104611,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff311",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_40bc6e5205c84fb8cd337031ca8480d0.png",
+                                "skillid": 5620
+                            },
+                            "id": 104610,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713767580554,
+                            "_id": "6626049d554108f063532bfe",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                                "skillid": 5600
+                            },
+                            "id": 105768,
+                            "sourceId": 2674712
+                        }
+                    ],
+                    "title": "LANING COMBOS"
+                },
+                "dynamic": null,
+                "id": 2694955,
+                "linkId": [
+                    2684183
+                ],
+                "sort": 0,
+                "updatedAt": 1713373161177,
+                "updatedUser": "rubickguo"
+            }
+        ],
+        "total": 2
+    }
+}

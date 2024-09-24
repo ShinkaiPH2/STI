@@ -1,0 +1,154 @@
+{
+    "code": 0,
+    "message": "OK",
+    "data": {
+        "records": [
+            {
+                "_id": "661fffbe17071f48448b2268",
+                "caption": "\u7ebd\u7279",
+                "configId": 144237,
+                "createdAt": 1713373118214,
+                "createdUser": "rubickguo",
+                "data": {
+                    "_object": 2684183,
+                    "desc": "In teamfights, summon a Reverse-Clone with Natan's Ultimate, then use his 2nd Skill followed by his 1st Skill to knockback and damage enemies, and finish with a barrage of Basic Attacks. Depending on the situation, Natan's Ultimate can also be used to chase or escape.",
+                    "hero_id": 107,
+                    "skill_id": [
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff3f6",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ec8eba4cade95718ecb5895f571a8e87.png",
+                                "skillid": 10730
+                            },
+                            "id": 104839,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff3f3",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6cc955ea774b6680a2868fdd186042cf.png",
+                                "skillid": 10720
+                            },
+                            "id": 104836,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff3f4",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0f70bd309c626de414c448bfb83bddd6.png",
+                                "skillid": 10710
+                            },
+                            "id": 104837,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713767580554,
+                            "_id": "6626049d554108f063532c2e",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                                "skillid": 10700
+                            },
+                            "id": 105816,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff3f6",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ec8eba4cade95718ecb5895f571a8e87.png",
+                                "skillid": 10730
+                            },
+                            "id": 104839,
+                            "sourceId": 2674712
+                        }
+                    ],
+                    "title": "TEAMFIGHT COMBOS"
+                },
+                "dynamic": null,
+                "id": 2695046,
+                "linkId": [
+                    2684183
+                ],
+                "sort": 0,
+                "updatedAt": 1713373398292,
+                "updatedUser": "rubickguo"
+            },
+            {
+                "_id": "661fffbe17071f48448b2264",
+                "caption": "\u7ebd\u7279",
+                "configId": 144237,
+                "createdAt": 1713373118203,
+                "createdUser": "rubickguo",
+                "data": {
+                    "_object": 2684183,
+                    "desc": "In the laning phase, use Natan's 1st Skill and Basic Attacks to chip away at the enemy. When their HP is low enough, use his 2nd Skill to knockback the enemy and finish them off with Basic Attacks.",
+                    "hero_id": 107,
+                    "skill_id": [
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff3f4",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0f70bd309c626de414c448bfb83bddd6.png",
+                                "skillid": 10710
+                            },
+                            "id": 104837,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713767580554,
+                            "_id": "6626049d554108f063532c2e",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                                "skillid": 10700
+                            },
+                            "id": 105816,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff3f3",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6cc955ea774b6680a2868fdd186042cf.png",
+                                "skillid": 10720
+                            },
+                            "id": 104836,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713767580554,
+                            "_id": "6626049d554108f063532c2e",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                                "skillid": 10700
+                            },
+                            "id": 105816,
+                            "sourceId": 2674712
+                        }
+                    ],
+                    "title": "LANING COMBOS"
+                },
+                "dynamic": null,
+                "id": 2695045,
+                "linkId": [
+                    2684183
+                ],
+                "sort": 0,
+                "updatedAt": 1713373398295,
+                "updatedUser": "rubickguo"
+            }
+        ],
+        "total": 2
+    }
+}

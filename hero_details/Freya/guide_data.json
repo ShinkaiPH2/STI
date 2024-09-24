@@ -1,0 +1,154 @@
+{
+    "code": 0,
+    "message": "OK",
+    "data": {
+        "records": [
+            {
+                "_id": "661fffbc17071f48448b2008",
+                "caption": "\u8299\u857e\u4e9a",
+                "configId": 144237,
+                "createdAt": 1713373116552,
+                "createdUser": "rubickguo",
+                "data": {
+                    "_object": 2684183,
+                    "desc": "In teamfights, activate Freya's Ultimate to enter Valkyrie state and enhance her damage, then initiate with her 1st Skill and use her 2nd Skill repeatedly and end with Basic Attacks for maximum damage.",
+                    "hero_id": 22,
+                    "skill_id": [
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff274",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2d039e5209a8c2cbf0b9559d097aa207.png",
+                                "skillid": 2250
+                            },
+                            "id": 104453,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff275",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9cf925d98e786801c84f8e408bafb269.png",
+                                "skillid": 2210
+                            },
+                            "id": 104454,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713767580554,
+                            "_id": "6626049c554108f063532bd8",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                                "skillid": 2200
+                            },
+                            "id": 105730,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff277",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_faf0a8e099bc13ae24a6a38e64cb83fb.png",
+                                "skillid": 2220
+                            },
+                            "id": 104456,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713767580554,
+                            "_id": "6626049c554108f063532bd8",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                                "skillid": 2200
+                            },
+                            "id": 105730,
+                            "sourceId": 2674712
+                        }
+                    ],
+                    "title": "TEAMFIGHT COMBOS"
+                },
+                "dynamic": null,
+                "id": 2694894,
+                "linkId": [
+                    2684183
+                ],
+                "sort": 0,
+                "updatedAt": 1713941687555,
+                "updatedUser": "rubickguo"
+            },
+            {
+                "_id": "661fffbc17071f48448b2004",
+                "caption": "\u8299\u857e\u4e9a",
+                "configId": 144237,
+                "createdAt": 1713373116542,
+                "createdUser": "rubickguo",
+                "data": {
+                    "_object": 2684183,
+                    "desc": "In the laning phase, use Freya's 1st Skill to leap to the enemy and hit them with Basic Attacks, then cast her 2nd Skill repeatedly followed by more Basic Attacks for maximum damage.",
+                    "hero_id": 22,
+                    "skill_id": [
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff275",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9cf925d98e786801c84f8e408bafb269.png",
+                                "skillid": 2210
+                            },
+                            "id": 104454,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713767580554,
+                            "_id": "6626049c554108f063532bd8",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                                "skillid": 2200
+                            },
+                            "id": 105730,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff277",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_faf0a8e099bc13ae24a6a38e64cb83fb.png",
+                                "skillid": 2220
+                            },
+                            "id": 104456,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713767580554,
+                            "_id": "6626049c554108f063532bd8",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                                "skillid": 2200
+                            },
+                            "id": 105730,
+                            "sourceId": 2674712
+                        }
+                    ],
+                    "title": "LANING COMBOS"
+                },
+                "dynamic": null,
+                "id": 2694893,
+                "linkId": [
+                    2684183
+                ],
+                "sort": 0,
+                "updatedAt": 1713373219895,
+                "updatedUser": "rubickguo"
+            }
+        ],
+        "total": 2
+    }
+}

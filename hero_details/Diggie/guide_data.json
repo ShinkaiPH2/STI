@@ -1,0 +1,110 @@
+{
+    "code": 0,
+    "message": "OK",
+    "data": {
+        "records": [
+            {
+                "_id": "661fffbd17071f48448b20c0",
+                "caption": "\u6398\u6398",
+                "configId": 144237,
+                "createdAt": 1713373117066,
+                "createdUser": "rubickguo",
+                "data": {
+                    "_object": 2684183,
+                    "desc": "In teamfights, use Diggie's 1st Skill to poke the enemy. If an enemy tries to initiate, pull them back with his 2nd Skill. If a teammate gets CC'd or takes too much damage, use Diggie's Ultimate to save them.",
+                    "hero_id": 48,
+                    "skill_id": [
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff2ec",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c86c657882cc6e1d60d78de99684630b.png",
+                                "skillid": 4810
+                            },
+                            "id": 104573,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff2eb",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_89a503e45d0aa3d3118f3bf9860f7793.png",
+                                "skillid": 4820
+                            },
+                            "id": 104572,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff2ee",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_51ad0888fa262bf92b3cadf75b7d371c.png",
+                                "skillid": 4830
+                            },
+                            "id": 104575,
+                            "sourceId": 2674712
+                        }
+                    ],
+                    "title": "TEAMFIGHT COMBOS"
+                },
+                "dynamic": null,
+                "id": 2694940,
+                "linkId": [
+                    2684183
+                ],
+                "sort": 0,
+                "updatedAt": 1713373219661,
+                "updatedUser": "rubickguo"
+            },
+            {
+                "_id": "661fffbd17071f48448b20bc",
+                "caption": "\u6398\u6398",
+                "configId": 144237,
+                "createdAt": 1713373117056,
+                "createdUser": "rubickguo",
+                "data": {
+                    "_object": 2684183,
+                    "desc": "In the laning phase, use Diggie's 2nd Skill to confine the enemy to their location, then toss an owl alarm at them with his 1st Skill.",
+                    "hero_id": 48,
+                    "skill_id": [
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff2eb",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_89a503e45d0aa3d3118f3bf9860f7793.png",
+                                "skillid": 4820
+                            },
+                            "id": 104572,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff2ec",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c86c657882cc6e1d60d78de99684630b.png",
+                                "skillid": 4810
+                            },
+                            "id": 104573,
+                            "sourceId": 2674712
+                        }
+                    ],
+                    "title": "LANING COMBOS"
+                },
+                "dynamic": null,
+                "id": 2694939,
+                "linkId": [
+                    2684183
+                ],
+                "sort": 0,
+                "updatedAt": 1713373219661,
+                "updatedUser": "rubickguo"
+            }
+        ],
+        "total": 2
+    }
+}

@@ -1,0 +1,165 @@
+{
+    "code": 0,
+    "message": "OK",
+    "data": {
+        "records": [
+            {
+                "_id": "661fffbe17071f48448b2230",
+                "caption": "\u666e\u7f57\u8fea",
+                "configId": 144237,
+                "createdAt": 1713373118063,
+                "createdUser": "rubickguo",
+                "data": {
+                    "_object": 2684183,
+                    "desc": "Brody should prioritize using his 1st Skill and Basic Attack, to apply Abyss Marks on enemy heroes outside of the battle area. He can then use his Ultimate and Basic Attack to deal heavy damage and his 2nd Skill and Basic Attack to chase down enemies on the run.",
+                    "hero_id": 100,
+                    "skill_id": [
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff3d9",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6635e0873a7cc48bac4bf4542c84e459.png",
+                                "skillid": 10010
+                            },
+                            "id": 104810,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713767580554,
+                            "_id": "6626049d554108f063532c25",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                                "skillid": 10000
+                            },
+                            "id": 105807,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff3db",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cbf0e2955ea6204995caf47e8082a376.png",
+                                "skillid": 10030
+                            },
+                            "id": 104812,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713767580554,
+                            "_id": "6626049d554108f063532c25",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                                "skillid": 10000
+                            },
+                            "id": 105807,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff3dc",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e26469bd1e87124fe3aefbd15dddb127.png",
+                                "skillid": 10020
+                            },
+                            "id": 104813,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713767580554,
+                            "_id": "6626049d554108f063532c25",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                                "skillid": 10000
+                            },
+                            "id": 105807,
+                            "sourceId": 2674712
+                        }
+                    ],
+                    "title": "TEAMFIGHT COMBOS"
+                },
+                "dynamic": null,
+                "id": 2695032,
+                "linkId": [
+                    2684183
+                ],
+                "sort": 0,
+                "updatedAt": 1713373398345,
+                "updatedUser": "rubickguo"
+            },
+            {
+                "_id": "661fffbe17071f48448b222c",
+                "caption": "\u666e\u7f57\u8fea",
+                "configId": 144237,
+                "createdAt": 1713373118051,
+                "createdUser": "rubickguo",
+                "data": {
+                    "_object": 2684183,
+                    "desc": "Brody can regularly use his 1st Skill and Basic Attacks to clear lanes and poke the enemy heroes. Once enemy heroes are low on HP, Brody can use his 2nd Skill to close in and stun them, then cast his Ultimate to try to finish them off.",
+                    "hero_id": 100,
+                    "skill_id": [
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff3d9",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6635e0873a7cc48bac4bf4542c84e459.png",
+                                "skillid": 10010
+                            },
+                            "id": 104810,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713767580554,
+                            "_id": "6626049d554108f063532c25",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                                "skillid": 10000
+                            },
+                            "id": 105807,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff3dc",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e26469bd1e87124fe3aefbd15dddb127.png",
+                                "skillid": 10020
+                            },
+                            "id": 104813,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff3db",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cbf0e2955ea6204995caf47e8082a376.png",
+                                "skillid": 10030
+                            },
+                            "id": 104812,
+                            "sourceId": 2674712
+                        }
+                    ],
+                    "title": "LANING COMBOS"
+                },
+                "dynamic": null,
+                "id": 2695031,
+                "linkId": [
+                    2684183
+                ],
+                "sort": 0,
+                "updatedAt": 1713373398346,
+                "updatedUser": "rubickguo"
+            }
+        ],
+        "total": 2
+    }
+}

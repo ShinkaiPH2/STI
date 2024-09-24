@@ -1,0 +1,176 @@
+{
+    "code": 0,
+    "message": "OK",
+    "data": {
+        "records": [
+            {
+                "_id": "661fffbc17071f48448b2080",
+                "caption": "\u7f57\u6770",
+                "configId": 144237,
+                "createdAt": 1713373116901,
+                "createdUser": "rubickguo",
+                "data": {
+                    "_object": 2684183,
+                    "desc": "In teamfights, use Roger's 1st Skill to whittle down enemies from afar while using his 2nd Skill to maintain good positioning. When both sides have engaged, use his Ultimate to go for the enemy's back line. Use his 2nd Skill for extra Attack Speed and his 1st Skill to secure the kill.",
+                    "hero_id": 39,
+                    "skill_id": [
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff2c5",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f6a7a6f89ad205b579985ea0e5ac28a1.png",
+                                "skillid": 3910
+                            },
+                            "id": 104534,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff2c6",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_42cfcbb066e1aef866c0cc1b9221811a.png",
+                                "skillid": 3920
+                            },
+                            "id": 104535,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff2c7",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d414e77c739a173de440616d47260dd8.png",
+                                "skillid": 3930
+                            },
+                            "id": 104536,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff2c3",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c593ba4f2bebc21c6e099256e94ef2ec.png",
+                                "skillid": 3922
+                            },
+                            "id": 104532,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff2c4",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3c6152c1e1bb2ceae95818e06bcfed86.png",
+                                "skillid": 3911
+                            },
+                            "id": 104533,
+                            "sourceId": 2674712
+                        }
+                    ],
+                    "title": "TEAMFIGHT COMBOS"
+                },
+                "dynamic": null,
+                "id": 2694924,
+                "linkId": [
+                    2684183
+                ],
+                "sort": 0,
+                "updatedAt": 1713942724966,
+                "updatedUser": "rubickguo"
+            },
+            {
+                "_id": "661fffbc17071f48448b207c",
+                "caption": "\u7f57\u6770",
+                "configId": 144237,
+                "createdAt": 1713373116892,
+                "createdUser": "rubickguo",
+                "data": {
+                    "_object": 2684183,
+                    "desc": "In the laning phase, Roger should poke the enemy while in his Human form. Use his 2nd Skill for extra Movement Speed for an angle to hit with his 1st Skill. Use his Ultimate to close in on the enemy, followed by his 2nd Skill for Attack Speed and tear into them with Basic Attacks before finishing them off with his 1st Skill.",
+                    "hero_id": 39,
+                    "skill_id": [
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff2c6",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_42cfcbb066e1aef866c0cc1b9221811a.png",
+                                "skillid": 3920
+                            },
+                            "id": 104535,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff2c5",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f6a7a6f89ad205b579985ea0e5ac28a1.png",
+                                "skillid": 3910
+                            },
+                            "id": 104534,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff2c7",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d414e77c739a173de440616d47260dd8.png",
+                                "skillid": 3930
+                            },
+                            "id": 104536,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff2c3",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c593ba4f2bebc21c6e099256e94ef2ec.png",
+                                "skillid": 3922
+                            },
+                            "id": 104532,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713767580554,
+                            "_id": "6626049d554108f063532bea",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                                "skillid": 3900
+                            },
+                            "id": 105748,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff2c4",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3c6152c1e1bb2ceae95818e06bcfed86.png",
+                                "skillid": 3911
+                            },
+                            "id": 104533,
+                            "sourceId": 2674712
+                        }
+                    ],
+                    "title": "LANING COMBOS"
+                },
+                "dynamic": null,
+                "id": 2694923,
+                "linkId": [
+                    2684183
+                ],
+                "sort": 0,
+                "updatedAt": 1713942738652,
+                "updatedUser": "rubickguo"
+            }
+        ],
+        "total": 2
+    }
+}

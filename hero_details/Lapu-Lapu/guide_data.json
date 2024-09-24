@@ -1,0 +1,154 @@
+{
+    "code": 0,
+    "message": "OK",
+    "data": {
+        "records": [
+            {
+                "_id": "661fffbc17071f48448b2070",
+                "caption": "\u62c9\u666e\u62c9\u666e",
+                "configId": 144237,
+                "createdAt": 1713373116862,
+                "createdUser": "rubickguo",
+                "data": {
+                    "_object": 2684183,
+                    "desc": "In teamfights, use Lapu-Lapu's 1st Skill to wear down the enemies' HP, then follow up with his 2nd Skill to get close and use his Ultimate to initiate. While in Great Sword stance, use his Ultimate again for high burst damage, then use his 2nd Skill to gain Damage Reduction,\r\nand finally CC the enemy with his 1st Skill.",
+                    "hero_id": 37,
+                    "skill_id": [
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff2b6",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e7cb2f98d19635f68bcf1c9a322daf6a.png",
+                                "skillid": 3710
+                            },
+                            "id": 104519,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff2b7",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24322baddfd959a497671ec25ebe91a7.png",
+                                "skillid": 3720
+                            },
+                            "id": 104520,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff2ba",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a7b0ba6060cb97e213bbb75c24404a2f.png",
+                                "skillid": 3730
+                            },
+                            "id": 104523,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff2b9",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_77042b1a4020eef7c59fc51ac080a91c.png",
+                                "skillid": 3731
+                            },
+                            "id": 104522,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff2b8",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d09db3b0fb47d66e6ce2c80371141c68.png",
+                                "skillid": 3723
+                            },
+                            "id": 104521,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff2b5",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_314a8fc8ae1bed40e359345d5f4d31a0.png",
+                                "skillid": 3712
+                            },
+                            "id": 104518,
+                            "sourceId": 2674712
+                        }
+                    ],
+                    "title": "TEAMFIGHT COMBOS"
+                },
+                "dynamic": null,
+                "id": 2694920,
+                "linkId": [
+                    2684183
+                ],
+                "sort": 0,
+                "updatedAt": 1713942665283,
+                "updatedUser": "rubickguo"
+            },
+            {
+                "_id": "661fffbc17071f48448b206c",
+                "caption": "\u62c9\u666e\u62c9\u666e",
+                "configId": 144237,
+                "createdAt": 1713373116852,
+                "createdUser": "rubickguo",
+                "data": {
+                    "_object": 2684183,
+                    "desc": "In the laning phase, use Lapu-Lapu's 1st Skill to poke enemies. When Bravery Blessing is full, use his 2nd Skill and enhanced Basic Attacks.",
+                    "hero_id": 37,
+                    "skill_id": [
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff2b6",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e7cb2f98d19635f68bcf1c9a322daf6a.png",
+                                "skillid": 3710
+                            },
+                            "id": 104519,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff2b7",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24322baddfd959a497671ec25ebe91a7.png",
+                                "skillid": 3720
+                            },
+                            "id": 104520,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713767580554,
+                            "_id": "6626049d554108f063532be7",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                                "skillid": 3700
+                            },
+                            "id": 105745,
+                            "sourceId": 2674712
+                        }
+                    ],
+                    "title": "LANING COMBOS"
+                },
+                "dynamic": null,
+                "id": 2694919,
+                "linkId": [
+                    2684183
+                ],
+                "sort": 0,
+                "updatedAt": 1713373219834,
+                "updatedUser": "rubickguo"
+            }
+        ],
+        "total": 2
+    }
+}

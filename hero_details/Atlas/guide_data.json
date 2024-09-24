@@ -1,0 +1,110 @@
+{
+    "code": 0,
+    "message": "OK",
+    "data": {
+        "records": [
+            {
+                "_id": "661fffbd17071f48448b2200",
+                "caption": "\u963f\u7279\u62c9\u65af",
+                "configId": 144237,
+                "createdAt": 1713373117915,
+                "createdUser": "rubickguo",
+                "data": {
+                    "_object": 2684183,
+                    "desc": "In teamfights, use Atlas's 2nd Skill to approach the enemy and unleash his Ultimate when multiple enemies are in range. Aim while channeling and release to slam them down near your team, then continue to deal damage with his 1st Skill.",
+                    "hero_id": 93,
+                    "skill_id": [
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff3bb",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_15c10ac17e273e24397333ae7900a72d.png",
+                                "skillid": 9320
+                            },
+                            "id": 104780,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff3be",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6b88d2df7f9a269a382e2cd256f9d816.png",
+                                "skillid": 9330
+                            },
+                            "id": 104783,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff3bc",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e329fe04072558085096e8198d9e15c8.png",
+                                "skillid": 9310
+                            },
+                            "id": 104781,
+                            "sourceId": 2674712
+                        }
+                    ],
+                    "title": "TEAMFIGHT COMBOS"
+                },
+                "dynamic": null,
+                "id": 2695020,
+                "linkId": [
+                    2684183
+                ],
+                "sort": 0,
+                "updatedAt": 1713373398215,
+                "updatedUser": "rubickguo"
+            },
+            {
+                "_id": "661fffbd17071f48448b21fc",
+                "caption": "\u963f\u7279\u62c9\u65af",
+                "configId": 144237,
+                "createdAt": 1713373117906,
+                "createdUser": "rubickguo",
+                "data": {
+                    "_object": 2684183,
+                    "desc": "In the laning phase, use Atlas's 2nd Skill to eject and then get close to the enemy. Right before the Mecha Sentry reaches Atlas, use his 1st Skill to double the effect.",
+                    "hero_id": 93,
+                    "skill_id": [
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff3bb",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_15c10ac17e273e24397333ae7900a72d.png",
+                                "skillid": 9320
+                            },
+                            "id": 104780,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff3bc",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e329fe04072558085096e8198d9e15c8.png",
+                                "skillid": 9310
+                            },
+                            "id": 104781,
+                            "sourceId": 2674712
+                        }
+                    ],
+                    "title": "LANING COMBOS"
+                },
+                "dynamic": null,
+                "id": 2695019,
+                "linkId": [
+                    2684183
+                ],
+                "sort": 0,
+                "updatedAt": 1713373398215,
+                "updatedUser": "rubickguo"
+            }
+        ],
+        "total": 2
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "code": 0,
+    "message": "OK",
+    "data": {
+        "records": [
+            {
+                "_id": "661fffbc17071f48448b1f78",
+                "caption": "\u5df4\u8499",
+                "configId": 144237,
+                "createdAt": 1713373116204,
+                "createdUser": "rubickguo",
+                "data": {
+                    "_object": 2684183,
+                    "desc": "Balmond can close in on the enemy with Soul Lock, follow up with Cyclone Sweep for continuous damage, then cast his Ultimate to finish off low HP enemies.",
+                    "hero_id": 2,
+                    "skill_id": [
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff21f",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8bfe9cffa391a97995c46977e95d4be8.png",
+                                "skillid": 210
+                            },
+                            "id": 104368,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff222",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5120ddf10175a28628b37ddb846df631.png",
+                                "skillid": 220
+                            },
+                            "id": 104371,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff221",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0a7365234448da509cb88a0baf2b92dd.png",
+                                "skillid": 230
+                            },
+                            "id": 104370,
+                            "sourceId": 2674712
+                        }
+                    ],
+                    "title": "TEAMFIGHT COMBOS"
+                },
+                "dynamic": null,
+                "id": 2694858,
+                "linkId": [
+                    2684183
+                ],
+                "sort": 0,
+                "updatedAt": 1713373219941,
+                "updatedUser": "rubickguo"
+            },
+            {
+                "_id": "661fffbc17071f48448b1f77",
+                "caption": "\u5df4\u8499",
+                "configId": 144237,
+                "createdAt": 1713373116195,
+                "createdUser": "rubickguo",
+                "data": {
+                    "_object": 2684183,
+                    "desc": "Balmond can close in on the enemy with Soul Lock, follow up with Cyclone Sweep for continuous damage, then cast his Ultimate to finish off low HP enemies.",
+                    "hero_id": 2,
+                    "skill_id": [
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff21f",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8bfe9cffa391a97995c46977e95d4be8.png",
+                                "skillid": 210
+                            },
+                            "id": 104368,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff222",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5120ddf10175a28628b37ddb846df631.png",
+                                "skillid": 220
+                            },
+                            "id": 104371,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713767580554,
+                            "_id": "6626049c554108f063532bc4",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                                "skillid": 200
+                            },
+                            "id": 105710,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff221",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0a7365234448da509cb88a0baf2b92dd.png",
+                                "skillid": 230
+                            },
+                            "id": 104370,
+                            "sourceId": 2674712
+                        }
+                    ],
+                    "title": "LANING COMBOS"
+                },
+                "dynamic": null,
+                "id": 2694857,
+                "linkId": [
+                    2684183
+                ],
+                "sort": 0,
+                "updatedAt": 1713373219943,
+                "updatedUser": "rubickguo"
+            }
+        ],
+        "total": 2
+    }
+}

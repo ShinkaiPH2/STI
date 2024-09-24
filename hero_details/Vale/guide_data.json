@@ -1,0 +1,110 @@
+{
+    "code": 0,
+    "message": "OK",
+    "data": {
+        "records": [
+            {
+                "_id": "661fffbd17071f48448b2150",
+                "caption": "\u7ef4\u5c14",
+                "configId": 144237,
+                "createdAt": 1713373117438,
+                "createdUser": "rubickguo",
+                "data": {
+                    "_object": 2684183,
+                    "desc": "In teamfights, use Vale's 2nd Skill to knock a line of enemies airborne, then follow up with his Ultimate and 1st Skill for a devastating combo.",
+                    "hero_id": 66,
+                    "skill_id": [
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff33e",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_181d88da995a75cdfe00db1c0fd73d3d.png",
+                                "skillid": 6620
+                            },
+                            "id": 104655,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff33d",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9d37de1a3a365be9dab282f2fdbd9265.png",
+                                "skillid": 6630
+                            },
+                            "id": 104654,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff33b",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1dbf6315ad50ccd40b818a1c5ec0a3b4.png",
+                                "skillid": 6610
+                            },
+                            "id": 104652,
+                            "sourceId": 2674712
+                        }
+                    ],
+                    "title": "TEAMFIGHT COMBOS"
+                },
+                "dynamic": null,
+                "id": 2694976,
+                "linkId": [
+                    2684183
+                ],
+                "sort": 0,
+                "updatedAt": 1713947725323,
+                "updatedUser": "rubickguo"
+            },
+            {
+                "_id": "661fffbd17071f48448b214c",
+                "caption": "\u7ef4\u5c14",
+                "configId": 144237,
+                "createdAt": 1713373117427,
+                "createdUser": "rubickguo",
+                "data": {
+                    "_object": 2684183,
+                    "desc": "In the laning phase, use Vale's 2nd Skill to knock the opponent airborne, then follow up with his 1st Skill for damage.",
+                    "hero_id": 66,
+                    "skill_id": [
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff33e",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_181d88da995a75cdfe00db1c0fd73d3d.png",
+                                "skillid": 6620
+                            },
+                            "id": 104655,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff33b",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1dbf6315ad50ccd40b818a1c5ec0a3b4.png",
+                                "skillid": 6610
+                            },
+                            "id": 104652,
+                            "sourceId": 2674712
+                        }
+                    ],
+                    "title": "LANING COMBOS"
+                },
+                "dynamic": null,
+                "id": 2694975,
+                "linkId": [
+                    2684183
+                ],
+                "sort": 0,
+                "updatedAt": 1713947717121,
+                "updatedUser": "rubickguo"
+            }
+        ],
+        "total": 2
+    }
+}

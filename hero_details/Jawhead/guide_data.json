@@ -1,0 +1,143 @@
+{
+    "code": 0,
+    "message": "OK",
+    "data": {
+        "records": [
+            {
+                "_id": "661fffbd17071f48448b20f0",
+                "caption": "\u5927\u94c1\u7f50",
+                "configId": 144237,
+                "createdAt": 1713373117189,
+                "createdUser": "rubickguo",
+                "data": {
+                    "_object": 2684183,
+                    "desc": "In teamfights, use Jawhead's 2nd Skill for the Movement Speed and start up his 1st Skill then immediately charge into a target using his Ultimate. Finally, use his 2nd Skill to toss the enemy back.",
+                    "hero_id": 54,
+                    "skill_id": [
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff309",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b8e015be6d7c3f44d07c7821c86d340e.png",
+                                "skillid": 5420
+                            },
+                            "id": 104602,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff30a",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24e71b01ad4b25441dc2874018c16771.png",
+                                "skillid": 5410
+                            },
+                            "id": 104603,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff30c",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b206f68d351dbf04a3e211903b345985.png",
+                                "skillid": 5430
+                            },
+                            "id": 104605,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff309",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b8e015be6d7c3f44d07c7821c86d340e.png",
+                                "skillid": 5420
+                            },
+                            "id": 104602,
+                            "sourceId": 2674712
+                        }
+                    ],
+                    "title": "TEAMFIGHT COMBOS"
+                },
+                "dynamic": null,
+                "id": 2694952,
+                "linkId": [
+                    2684183
+                ],
+                "sort": 0,
+                "updatedAt": 1713373219661,
+                "updatedUser": "rubickguo"
+            },
+            {
+                "_id": "661fffbd17071f48448b20ec",
+                "caption": "\u5927\u94c1\u7f50",
+                "configId": 144237,
+                "createdAt": 1713373117179,
+                "createdUser": "rubickguo",
+                "data": {
+                    "_object": 2684183,
+                    "desc": "In the laning phase, use Jawhead's 2nd Skill to get close to the enemy, then follow up with his 1st Skill and Basic Attacks to deal continuous damage. When the enemy tries to run, use his 2nd Skill again to toss them back.",
+                    "hero_id": 54,
+                    "skill_id": [
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff309",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b8e015be6d7c3f44d07c7821c86d340e.png",
+                                "skillid": 5420
+                            },
+                            "id": 104602,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff30a",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24e71b01ad4b25441dc2874018c16771.png",
+                                "skillid": 5410
+                            },
+                            "id": 104603,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713767580554,
+                            "_id": "6626049d554108f063532bf6",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                                "skillid": 5400
+                            },
+                            "id": 105760,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff309",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b8e015be6d7c3f44d07c7821c86d340e.png",
+                                "skillid": 5420
+                            },
+                            "id": 104602,
+                            "sourceId": 2674712
+                        }
+                    ],
+                    "title": "LANING COMBOS"
+                },
+                "dynamic": null,
+                "id": 2694951,
+                "linkId": [
+                    2684183
+                ],
+                "sort": 0,
+                "updatedAt": 1713373219661,
+                "updatedUser": "rubickguo"
+            }
+        ],
+        "total": 2
+    }
+}

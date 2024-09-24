@@ -1,0 +1,154 @@
+{
+    "code": 0,
+    "message": "OK",
+    "data": {
+        "records": [
+            {
+                "_id": "662000c517071f48448b242c",
+                "caption": "\u5bc5",
+                "configId": 144237,
+                "createdAt": 1713373381460,
+                "createdUser": "rubickguo",
+                "data": {
+                    "_object": 2684183,
+                    "desc": "Yin should use his 1st Skill to gain Movement Speed and then his 2nd Skill to get close to a key enemy and hit them with his enhanced Basic Attack before trapping them in his Ultimate. In Lieh form, use his 2nd Skill to stun the enemy and finish them off with his 1st Skill.",
+                    "hero_id": 113,
+                    "skill_id": [
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff40d",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_927d2396bfbe124ced32fec90158a316.png",
+                                "skillid": 11310
+                            },
+                            "id": 104862,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff40e",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9840f60d6b05aa1cb9513397d574df12.png",
+                                "skillid": 11320
+                            },
+                            "id": 104863,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713767580554,
+                            "_id": "6626049d554108f063532c33",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                                "skillid": 11300
+                            },
+                            "id": 105821,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff411",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_772f992a2b08481a7d0f876e1c1ace56.png",
+                                "skillid": 11330
+                            },
+                            "id": 104866,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1714296780174,
+                            "_id": "662e17cc9b097b39d81012e5",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bd208d41c28fbdc474d8381a52a5048b.png",
+                                "skillid": 2011320
+                            },
+                            "id": 106125,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1714296780174,
+                            "_id": "662e17cc9b097b39d81012e6",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e34f614b0fe2d29abc6364e3a2ab4969.png",
+                                "skillid": 2011310
+                            },
+                            "id": 106126,
+                            "sourceId": 2674712
+                        }
+                    ],
+                    "title": "TEAMFIGHT COMBOS"
+                },
+                "dynamic": null,
+                "id": 2695058,
+                "linkId": [
+                    2684183
+                ],
+                "sort": 0,
+                "updatedAt": 1714273775948,
+                "updatedUser": "rubickguo"
+            },
+            {
+                "_id": "662000c517071f48448b2428",
+                "caption": "\u5bc5",
+                "configId": 144237,
+                "createdAt": 1713373381450,
+                "createdUser": "rubickguo",
+                "data": {
+                    "_object": 2684183,
+                    "desc": "In the laning phase, Yin should use his 1st Skill to gain Movement Speed, then use his 2nd Skill to dash behind the enemy so the Golden Rings will stun them on their return, and end with his enhanced Basic Attack.",
+                    "hero_id": 113,
+                    "skill_id": [
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff40d",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_927d2396bfbe124ced32fec90158a316.png",
+                                "skillid": 11310
+                            },
+                            "id": 104862,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff40e",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9840f60d6b05aa1cb9513397d574df12.png",
+                                "skillid": 11320
+                            },
+                            "id": 104863,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713767580554,
+                            "_id": "6626049d554108f063532c33",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                                "skillid": 11300
+                            },
+                            "id": 105821,
+                            "sourceId": 2674712
+                        }
+                    ],
+                    "title": "LANING COMBOS"
+                },
+                "dynamic": null,
+                "id": 2695057,
+                "linkId": [
+                    2684183
+                ],
+                "sort": 0,
+                "updatedAt": 1713373398284,
+                "updatedUser": "rubickguo"
+            }
+        ],
+        "total": 2
+    }
+}

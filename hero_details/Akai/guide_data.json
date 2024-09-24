@@ -1,0 +1,121 @@
+{
+    "code": 0,
+    "message": "OK",
+    "data": {
+        "records": [
+            {
+                "_id": "661fffbc17071f48448b1fa8",
+                "caption": "\u963f\u51ef",
+                "configId": 144237,
+                "createdAt": 1713373116317,
+                "createdUser": "rubickguo",
+                "data": {
+                    "_object": 2684183,
+                    "desc": "In teamfights, Akai should use his 1st Skill to knock back the enemy, and roll into the enemy formation. Then use his Ultimate to disrupt the enemy formation, and continue to deal damage with his 2nd Skill after his Ultimate ends.",
+                    "hero_id": 9,
+                    "skill_id": [
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff23a",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4c47ec169528dd5f35ee0792fd26fcf8.png",
+                                "skillid": 910
+                            },
+                            "id": 104395,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff23e",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_31701b6b54bacf44d29317ab6ba86f64.png",
+                                "skillid": 930
+                            },
+                            "id": 104399,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff23d",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_57c97caeff255d9d646d4c9b3d100211.png",
+                                "skillid": 920
+                            },
+                            "id": 104398,
+                            "sourceId": 2674712
+                        }
+                    ],
+                    "title": "TEAMFIGHT COMBOS"
+                },
+                "dynamic": null,
+                "id": 2694870,
+                "linkId": [
+                    2684183
+                ],
+                "sort": 0,
+                "updatedAt": 1713373219996,
+                "updatedUser": "rubickguo"
+            },
+            {
+                "_id": "661fffbc17071f48448b1fa4",
+                "caption": "\u963f\u51ef",
+                "configId": 144237,
+                "createdAt": 1713373116307,
+                "createdUser": "rubickguo",
+                "data": {
+                    "_object": 2684183,
+                    "desc": "In the laning phase, Akai should use his 1st Skill to knock back the enemy, and slow them down with his 2nd Skill, then spam his Basic Attack to deal damage.",
+                    "hero_id": 9,
+                    "skill_id": [
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff23a",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4c47ec169528dd5f35ee0792fd26fcf8.png",
+                                "skillid": 910
+                            },
+                            "id": 104395,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713515848493,
+                            "_id": "66222d489b097b39d80ff23d",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_57c97caeff255d9d646d4c9b3d100211.png",
+                                "skillid": 920
+                            },
+                            "id": 104398,
+                            "sourceId": 2674712
+                        },
+                        {
+                            "_createdAt": 1713767580554,
+                            "_id": "6626049c554108f063532bcc",
+                            "_updatedAt": 1726844439928,
+                            "data": {
+                                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                                "skillid": 900
+                            },
+                            "id": 105718,
+                            "sourceId": 2674712
+                        }
+                    ],
+                    "title": "LANING COMBOS"
+                },
+                "dynamic": null,
+                "id": 2694869,
+                "linkId": [
+                    2684183
+                ],
+                "sort": 0,
+                "updatedAt": 1713373219996,
+                "updatedUser": "rubickguo"
+            }
+        ],
+        "total": 2
+    }
+}
